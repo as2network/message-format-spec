@@ -1,12 +1,26 @@
 {
-  "name": "canonical",
+  "name": "documentation-as2",
   "version": "1.0.0",
-  "description": "MOST ENUMERATED VALUES HAVE DELIBERATELY BEEN DEFINED AS XS:STRING TO AVOID CHANGE IMPACT.          ENUMERATIONS (i.e. LIST OF POSSIBLE VALUES) ARE INSTEAD SPECIFIED IN THE DIS IMPLEMENTATION GUIDE.",
+  "description": "@as2network AS2NG Documentation",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/as2network/documentation-as2.git"
+  },
+  "keywords": [
+    "as2",
+    "as2 protocol",
+    "b2b",
+    "enterprise",
+    "ethereum"
+  ],
+  "author": "SEE CONTRIBUTORS",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/as2network/documentation-as2/issues"
+  },
+  "homepage": "https://github.com/as2network/documentation-as2#readme"
 }
