@@ -1,8 +1,8 @@
 {
-  "name": "documentation-as2",
+  "name": "@as2etwork/specification",
   "version": "1.0.0",
-  "description": "@as2network AS2NG Documentation",
-  "main": "index.js",
+  "description": "@as2network AS2NG Message Specification & Documentation",
+  "files": [ "CommonData.xsd", "MessageValidationResponse.xsd", "MessageEnvelope.xsd", "DocumentWithdrawal.xsd", "DocumentSubmissionPackage.xsd", "DocumentReviewResponse.xsd" ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
